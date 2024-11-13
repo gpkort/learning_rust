@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./borrow/Cargo.toml",
+        "./hello_web/Cargo.toml"
+    ]
+}
